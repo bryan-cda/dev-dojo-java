@@ -1,4 +1,4 @@
-package message;
+package java_marathon.src.message;
 
 public class Hello {
     public static void main(String[] args) {
